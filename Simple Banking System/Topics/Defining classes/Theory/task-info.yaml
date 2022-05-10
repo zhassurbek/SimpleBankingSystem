@@ -13,5 +13,7 @@ files:
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/3618#comment
 status: Solved
+feedback:
+  time: Tue, 10 May 2022 06:06:22 UTC
 record: -1
 post_submission_on_open: true
