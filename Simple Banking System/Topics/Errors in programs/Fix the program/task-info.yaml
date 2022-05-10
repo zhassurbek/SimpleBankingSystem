@@ -9,5 +9,8 @@ files:
     \ System.out.println(result);\n    }\n}"
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/3750#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 09 May 2022 10:10:46 UTC
 record: -1
