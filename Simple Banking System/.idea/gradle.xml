@@ -7,7 +7,7 @@
         <option name="delegatedBuild" value="false" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="gradleJvm" value="jbr-11" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -40,6 +40,11 @@
             <option value="$PROJECT_DIR$/Topics/Instance methods/Patient needs a doctor" />
             <option value="$PROJECT_DIR$/Topics/Instance methods/Simulating a clock" />
             <option value="$PROJECT_DIR$/Topics/Instance methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Army" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Change identities" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Find reference types" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Null or not" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Theory" />
             <option value="$PROJECT_DIR$/Topics/Package/Binary search" />
             <option value="$PROJECT_DIR$/Topics/Package/Getting input" />
             <option value="$PROJECT_DIR$/Topics/Package/The default import" />
