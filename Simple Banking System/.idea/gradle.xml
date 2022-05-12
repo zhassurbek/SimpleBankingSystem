@@ -54,6 +54,13 @@
             <option value="$PROJECT_DIR$/Topics/Package/Getting input" />
             <option value="$PROJECT_DIR$/Topics/Package/The default import" />
             <option value="$PROJECT_DIR$/Topics/Package/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Accessing constructors of a base class" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Bank account" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Fix the non-compiled hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Statements" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/When the keyword is used" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Why we use the super keyword" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
